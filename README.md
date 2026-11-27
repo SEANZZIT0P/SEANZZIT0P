@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEANZZITOP/SEANZZITOP/refs/heads/main/header.svg" width="400">
+  <img src="https://raw.githubusercontent.com/SEANZZIT0P/SEANZZITOP/refs/heads/main/header.svg" width="400">
 </p>
