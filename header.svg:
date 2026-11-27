@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="65" viewBox="0 0 400 65">
+  <defs>
+    <linearGradient id="fire">
+      <stop stop-color="#FFCA00"/>
+      <stop offset=".35" stop-color="#EE7E00"/>
+      <stop offset=".7" stop-color="#FFB300"/>
+      <stop offset="1" stop-color="#FDDDBA"/>
+    </linearGradient>
+  </defs>
+  <text x="200" y="43"
+    text-anchor="middle"
+    font-family="Verdana, sans-serif"
+    font-size="29"
+    font-weight="bold"
+    fill="url(#fire)">checky my rentry</text>
+</svg>
