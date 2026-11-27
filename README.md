@@ -3,11 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./header.svg">
-</p>
-
-<p align="center">
-  <a href="https://rentry.co/abyssalpastelitos">
-    <img src="./rentry.svg" alt="rentry">
-  </a>
+  <img src="https://raw.githubusercontent.com/SEANZZITOP/SEANZZITOP/refs/heads/main/header.svg" width="400">
 </p>
