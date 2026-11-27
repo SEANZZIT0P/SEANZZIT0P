@@ -5,3 +5,8 @@
 <p align="center">
   <img src="./rentry.svg" alt="Check my Rentry" width="320">
 </p>
+<p align="center">
+  <a href="https://rentry.co/abyssalpastelitos">
+    <img src="./Buttonrentry.svg" alt="♡" width="200">
+  </a>
+</p>
