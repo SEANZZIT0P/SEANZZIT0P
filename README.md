@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEANZZIT0P/SEANZZITOP/refs/heads/main/header.svg" width="400">
+  <img src="./rentry.svg" alt="Check my Rentry" width="320">
 </p>
